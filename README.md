@@ -1,5 +1,8 @@
 # graft
 
+> [!WARNING]
+> This repository is archived. Development continues at [chex-garage](https://github.com/blck-snwmn/chex-garage).
+
 A personal userscript manager as a Chrome extension
 
 ## Supported Sites
